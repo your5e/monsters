@@ -51,3 +51,6 @@ _Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn
 _**Lash.**_ The aboleth makes one Tentacle attack.
 
 _**Psychic Drain.**_ If the aboleth has at least one creature [[Charmed]] or [[Grappled]], it uses Consume Memories and regains 5 (1d10) [[Hit Points]].
+
+> [!image] [Aboleth.png](images/Aboleth.png) _by Loupon_
+> ![[images/Aboleth.png|An aboleth swimming in the depths]]

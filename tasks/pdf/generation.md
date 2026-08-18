@@ -4,7 +4,7 @@ a PDF whenever a commit is release tagged on main.
 
 @queue
 
-- [ ] script to output templated HTML from Markdown
+- [X] script to output templated HTML from Markdown
 - [ ] docker image for WeasyPrint
         - workflow to build and push to registry
 - [ ] generate PDF on push

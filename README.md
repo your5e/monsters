@@ -32,9 +32,13 @@ All of the above (see [tasks](tasks/) for a more detailed breakdown).
 
 ## Licensing
 
-The monster content in this repository is licensed under CC-BY-4.0, see below.
-The helper scripts and other code (eg. in [`bin/`](bin/)) are
+The monster descriptions and art in this project are licensed under CC-BY-4.0,
+see below. The helper scripts and other code (eg. in [`bin/`](bin/)) are
 [MIT licensed](bin/LICENSE).
+
+The bundled [Lora](assets/Lora.ttf) font is third-party, sourced from
+[Google Fonts](https://github.com/google/fonts/tree/main/ofl/lora), and remains
+under its own [SIL Open Font License 1.1](assets/OFL.txt).
 
 ### Using this content
 
@@ -48,6 +52,8 @@ credit in your derivative works:
 > available at <https://github.com/your5e/monsters>, which is licensed
 > under the Creative Commons Attribution 4.0 Internation License,
 > available at <https://creativecommons.org/licenses/by/4.0/>.
+
+The monster art is by [Loupon](https://loupon.art).
 
 
 ### Acknowledgements
