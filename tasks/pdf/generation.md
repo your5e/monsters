@@ -6,4 +6,5 @@ a PDF whenever a commit is release tagged on main.
 
 - [X] script to output templated HTML from Markdown
 - [X] docker image for WeasyPrint
-- [ ] generate PDF on push
+- [X] generate PDF on push
+- [X] build release on vn[.n[.n]] tag

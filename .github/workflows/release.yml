@@ -1,0 +1,22 @@
+name: release
+
+on:
+  push:
+    tags:
+      - "v[0-9]*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: make pdf
+      - run: gh release create "$GITHUB_REF_NAME" build/monsters.pdf --generate-notes
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

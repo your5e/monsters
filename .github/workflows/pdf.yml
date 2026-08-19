@@ -1,0 +1,18 @@
+name: pdf
+
+on: push
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: make pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: monsters
+          path: build/monsters.pdf
