@@ -53,7 +53,10 @@ credit in your derivative works:
 > under the Creative Commons Attribution 4.0 Internation License,
 > available at <https://creativecommons.org/licenses/by/4.0/>.
 
-The monster art is by [Loupon](https://loupon.art).
+Contributors:
+- The text additions are written by [Mark Norman Francis][mnf].
+- The monster art is drawn by [Loupon][lou].
+
 
 
 ### Acknowledgements
@@ -71,3 +74,5 @@ Commons [Attribution 4.0 International License][ccby].
 [bf]: https://bfrd.net
 [ccby]: https://creativecommons.org/licenses/by/4.0/
 [y5e]: https://your5e.com
+[lou]: https://loupon.art
+[mnf]: https://github.com/norm
