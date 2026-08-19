@@ -36,7 +36,7 @@ The monster descriptions and art in this project are licensed under CC-BY-4.0,
 see below. The helper scripts and other code (eg. in [`bin/`](bin/)) are
 [MIT licensed](bin/LICENSE).
 
-The bundled [Lora](assets/Lora.ttf) font is third-party, sourced from
+The bundled [Lora](assets/Lora.ttf) fonts are third-party, sourced from
 [Google Fonts](https://github.com/google/fonts/tree/main/ofl/lora), and remains
 under its own [SIL Open Font License 1.1](assets/OFL.txt).
 

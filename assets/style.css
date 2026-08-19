@@ -3,6 +3,12 @@
     src: url("/assets/Lora.ttf");
 }
 
+@font-face {
+    font-family: "Lora";
+    font-style: italic;
+    src: url("/assets/Lora-Italic.ttf");
+}
+
 body {
     font-family: "Lora", serif;
 }
